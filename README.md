@@ -17,3 +17,7 @@
 
 * yarn nft_metadata:<br/>
     Your image URI:  https://arweave.net/XF7r2wdene7ni_z_YDWe7QEAAMBfADgzzTxMhNvvq2Y
+
+* yarn nft_mint:<br/>
+    Succesfully Minted! Check out your TX here: https://explorer.solana.com/tx/22C6BJLwixh8dVWAZUS8UPpKBQnktjEiYuiAN2eGDJDxZozU9RsqK9ENc9Zex4qLsy3TsPLHXWddvtQH7Zu5c5Au?cluster=devnet<br/>
+    Mint Address:  4tmf9AB57TxVxD5urBcNqotWwciNs1bSHaiEz42azVwq
