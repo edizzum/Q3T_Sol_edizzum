@@ -12,5 +12,5 @@
 * yarn spl_transfer:<br/>
 	Your transfer txid: 2ii2xZwAQwZf3YKYSeZdB6xXCnvh6JuTvgaiZa2qkHe7TJfLdpA5DefGJrxdBmoz5jthRUTSvvkChUKYdmBgpxw
 
-* yarn nft_iamge:<br/>
+* yarn nft_image:<br/>
     Your image URI:  https://arweave.net/MUKmNh5SqRhnDma2xbXDfGnqQoQbjGLWzc1tZf7go3s
