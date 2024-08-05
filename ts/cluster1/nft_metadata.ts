@@ -17,7 +17,7 @@ umi.use(signerIdentity(signer));
         // Follow this JSON structure
         // https://docs.metaplex.com/programs/token-metadata/changelog/v1.0#json-structure
 
-        const image = "https://arweave.net/MUKmNh5SqRhnDma2xbXDfGnqQoQbjGLWzc1tZf7go3s";
+        const image = "https://arweave.net/wRlHOCgZUVGkwtGEAeMSrD4Ppt8IQKNVMQcmnDnan0U";
         const metadata = {
             name: "Arifs Rug",
             symbol: "AR",
@@ -31,13 +31,13 @@ umi.use(signerIdentity(signer));
                 files: [
                     {
                         type: "image/png",
-                        uri: "?"
+                        uri: image,
                     },
                 ]
             },
             creators: []
         };
-        const myUri = await umi.uploader.uploadJson([metadata]);
+        const myUri = await umi.uploader.uploadJson(metadata);
         console.log("Your image URI: ", myUri);
     }
     catch(error) {

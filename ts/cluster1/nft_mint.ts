@@ -20,8 +20,8 @@ const mint = generateSigner(umi);
         mint,
         name: "Arifs Rug",
         symbol: "AR",
-        uri: "https://arweave.net/XF7r2wdene7ni_z_YDWe7QEAAMBfADgzzTxMhNvvq2Y",
-        sellerFeeBasisPoints: percentAmount(1),
+        uri: "https://arweave.net/SG5YnfbczkjvYf5Av2T427oOcRe2mQt6G03t7ciqyQc",
+        sellerFeeBasisPoints: percentAmount(7),
     });
     let result = await tx.sendAndConfirm(umi);
     const signature = base58.encode(result.signature);

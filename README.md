@@ -13,11 +13,12 @@
 	Your transfer txid: 2ii2xZwAQwZf3YKYSeZdB6xXCnvh6JuTvgaiZa2qkHe7TJfLdpA5DefGJrxdBmoz5jthRUTSvvkChUKYdmBgpxw
 
 * yarn nft_image:<br/>
-    Your image URI:  https://arweave.net/MUKmNh5SqRhnDma2xbXDfGnqQoQbjGLWzc1tZf7go3s
+    Your image URI:  https://arweave.net/wRlHOCgZUVGkwtGEAeMSrD4Ppt8IQKNVMQcmnDnan0U
 
 * yarn nft_metadata:<br/>
-    Your image URI:  https://arweave.net/XF7r2wdene7ni_z_YDWe7QEAAMBfADgzzTxMhNvvq2Y
+    Your image URI:  https://arweave.net/SG5YnfbczkjvYf5Av2T427oOcRe2mQt6G03t7ciqyQc
 
 * yarn nft_mint:<br/>
-    Succesfully Minted! Check out your TX here: https://explorer.solana.com/tx/22C6BJLwixh8dVWAZUS8UPpKBQnktjEiYuiAN2eGDJDxZozU9RsqK9ENc9Zex4qLsy3TsPLHXWddvtQH7Zu5c5Au?cluster=devnet<br/>
-    Mint Address:  4tmf9AB57TxVxD5urBcNqotWwciNs1bSHaiEz42azVwq
+    Succesfully Minted! Check out your TX here:
+    https://explorer.solana.com/tx/3XLTpGBKfAhJ7Di6tDAEwJ4QaHPgzGkTZY8ZMQHLcc2g9dGZG86WyPsHnwXmwHfb5Z2AtRndbhJv7wF7Xsqv3DF7?cluster=devnet<br/>
+    Mint Address:  Bhi9YHbHmHH3khmfEPyFnUaRY2acKAowwpjp5fU6qzeX 
