@@ -14,3 +14,6 @@
 
 * yarn nft_image:<br/>
     Your image URI:  https://arweave.net/MUKmNh5SqRhnDma2xbXDfGnqQoQbjGLWzc1tZf7go3s
+
+* yarn nft_metadata:<br/>
+    Your image URI:  https://arweave.net/XF7r2wdene7ni_z_YDWe7QEAAMBfADgzzTxMhNvvq2Y
